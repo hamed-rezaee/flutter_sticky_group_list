@@ -2,7 +2,7 @@
 
 `GroupedListView` is a powerful Flutter widget that allows you to display a grouped, scrollable list with additional features like sticky headers, sorting, pull-to-refresh, and load more functionality.
 
-![GroupedListView Example](/demo.gif)
+![GroupedListView Example](https://github.com/hamed-rezaee/flutter_sticky_group_list/blob/master/demo.gif?raw=true)
 
 ## Features
 

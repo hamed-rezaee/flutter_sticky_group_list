@@ -1,7 +1,7 @@
 name: flutter_sticky_group_list
 description: "Flutter Sticky Group List, for creating sticky headers and group the list items."
 
-version: 1.0.0
+version: 1.0.1
 
 homepage: https://github.com/hamed-rezaee
 repository: https://github.com/hamed-rezaee/flutter_sticky_group_list
